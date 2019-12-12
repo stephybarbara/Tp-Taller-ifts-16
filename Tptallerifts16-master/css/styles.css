@@ -1,9 +1,16 @@
 body{
-    background-image: url("../img/climados.jpg");
+    background-image: url("../img/clima3.jpg");
     background-size: cover;
+
+
 }
 
 
 .row{
-	color: red
+	color: red;
+	text-align: center;
+	font-style: italic;
+
+
 }
+
